@@ -1,0 +1,8 @@
+img{
+    height: 40vh !important;
+}
+
+a:hover{
+    color: rgb(20, 50, 185) !important;
+    font-size: 1.2em !important;
+}
